@@ -2,16 +2,16 @@
 == Belgium ==
 author:[Van den Brande,Ywein]
 
-///////////////////////////
+
 +++++++++++++
-<chapterinfo>
+<articleinfo>
   <author>
      <firstname>Ywein</firstname>
      <surname>Van den Brande</surname>
   </author>
-</chapterinfo>
+</articleinfo>
 +++++++++++++
-///////////////////////////
+
 
 
 [[sec_introductionbelgium]]

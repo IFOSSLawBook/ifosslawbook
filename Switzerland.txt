@@ -4,9 +4,9 @@ author:[Jaccard,Michel]
 author:[Ancelle,Juliette]
 
 
-/////////////////////////////////////
+
 +++++++++++++
-<chapterinfo>
+<articleinfo>
 <authorgroup>
   <author>
      <firstname>Michel </firstname>
@@ -17,9 +17,9 @@ author:[Ancelle,Juliette]
      <surname>Ancelle</surname>
   </author>
 </authorgroup>
-</chapterinfo>
+</articleinfo>
 +++++++++++++
-/////////////////////////////////////
+
 
 
 === Introduction to software protection under Swiss Law ===

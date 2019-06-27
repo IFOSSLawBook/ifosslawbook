@@ -3,9 +3,9 @@
 author:[Piana,Carlo]
 author:[Aliprandi,Simone]
 
-//////////////////////////////
+
 ++++
-<chapterinfo>
+<articleinfo>
 <authorgroup>
   <author>
      <firstname>Carlo</firstname>
@@ -16,9 +16,9 @@ author:[Aliprandi,Simone]
      <surname>Aliprandi</surname>
   </author>
 </authorgroup>
-</chapterinfo>
+</articleinfo>
 ++++
-//////////////////////////////
+
 
 
 === Body of law ===

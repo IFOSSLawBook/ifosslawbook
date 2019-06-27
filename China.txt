@@ -2,16 +2,16 @@
 == China ==
 author:[Xia,Yang]
 
-///////////////////////
+
 +++++++++++++
-<chapterinfo>
+<articleinfo>
   <author>
      <firstname>Yang</firstname>
      <surname>Xia</surname>
   </author>
-</chapterinfo>
+</articleinfo>
 +++++++++++++
-///////////////////////
+
 
 
 

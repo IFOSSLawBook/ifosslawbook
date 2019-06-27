@@ -2,16 +2,16 @@
 == Korea ==
 author:[Park,Jongbaek]
 
-//////////////////////////
+
 +++++++++++++
-<chapterinfo>
+<articleinfo>
   <author>
      <firstname>Jongbaek</firstname>
      <surname>Park</surname>
   </author>
-</chapterinfo>
+</articleinfo>
 +++++++++++++
-//////////////////////////
+
 
 
 === Body of Law ===

@@ -2,16 +2,16 @@
 == Spain ==
 author:[Bain,Malcolm]
 
-/////////////////////////////
+
 +++++++++++++
-<chapterinfo>
+<articleinfo>
   <author>
      <firstname>Malcolm</firstname>
      <surname>Bain</surname>
   </author>
-</chapterinfo>
+</articleinfo>
 +++++++++++++
-/////////////////////////////
+
 
 
 
