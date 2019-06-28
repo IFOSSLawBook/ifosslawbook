@@ -3,9 +3,9 @@
 author:[Dammers,Wouter]
 author:[van Kerkvoorden,Wanda]
 
-
+/////////////////////////////
 ++++
-<articleinfo>
+<chapterinfo>
 <authorgroup>
   <author>
      <firstname>Wouter</firstname>
@@ -16,9 +16,9 @@ author:[van Kerkvoorden,Wanda]
      <surname>van Kerkvoorden</surname>
   </author>
 </authorgroup>
-</articleinfo>
+</chapterinfo>
 ++++
-
+/////////////////////////////
 
 
 [[nl_intro]]

@@ -2,16 +2,16 @@
 == South Africa ==
 author:[Rens,Andrew]
 
-
+/////////////////////////////
 +++++++++++++
-<articleinfo>
+<chapterinfo>
   <author>
      <firstname>Andrew</firstname>
      <surname>Rens</surname>
   </author>
-</articleinfo>
+</chapterinfo>
 +++++++++++++
-
+/////////////////////////////
 
 
 === Introduction to Software Protection under South African Law ===

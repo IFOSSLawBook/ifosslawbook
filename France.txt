@@ -4,9 +4,9 @@ author:[Perbost,Fabrice]
 author:[Walter,Alan]
 
 
-
+/////////////////
 ++++
-<articleinfo>
+<chapterinfo>
 <authorgroup>
   <author>
      <firstname>Fabrice</firstname>
@@ -17,9 +17,9 @@ author:[Walter,Alan]
      <surname>Walter</surname>
   </author>
 </authorgroup>
-</articleinfo>
+</chapterinfo>
 ++++
-
+/////////////////
 
 
 [[sec_introductionfrench]]

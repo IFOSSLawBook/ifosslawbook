@@ -3,9 +3,9 @@
 author:[von Willebrand,Martin]
 author:[Tanskanen,Henri]
 
-
+///////////////////////////
 ++++
-<articleinfo>
+<chapterinfo>
 <authorgroup>
   <author>
      <firstname>Martin</firstname>
@@ -16,9 +16,9 @@ author:[Tanskanen,Henri]
      <surname>Tanskanen</surname>
   </author>
 </authorgroup>
-</articleinfo>
+</chapterinfo>
 ++++
-
+///////////////////////////
 
 
 [[sec_introductionfinland]]

@@ -3,9 +3,9 @@
 author:[Quintais LL.M.,João Pedro]
 author:[Ramalho LL.M.,Ana B.]
 
-
+//////////////////////////
 ++++
-<articleinfo>
+<chapterinfo>
 <authorgroup>
   <author>
      <firstname>João Pedro</firstname>
@@ -18,9 +18,9 @@ author:[Ramalho LL.M.,Ana B.]
      <lineage>LL.M.</lineage>
   </author>
 </authorgroup>
-</articleinfo>
+</chapterinfo>
 ++++
-
+//////////////////////////
 
 === Introduction to software protection under Portuguese law ===
 

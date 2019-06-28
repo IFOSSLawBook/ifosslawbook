@@ -2,16 +2,16 @@
 == Taiwan ==
 author:[Lin,Lucien Cheng-Hsia]
 
-
+/////////////////////////////////
 ++++
-<articleinfo>
+<chapterinfo>
   <author>
      <firstname>Lucien Cheng-Hsia</firstname>
      <surname>Lin</surname>
   </author>
-</articleinfo>
+</chapterinfo>
 ++++
-
+/////////////////////////////////
 
 [[sec_introductiontaiwan]]
 === Introduction to software protection under Taiwan law === 

@@ -3,9 +3,9 @@
 author:[Katz,Andrew]
 author:[Mitchell QC,Iain G.]
 
-
+/////////////////////////////////
 ++++
-<articleinfo>
+<chapterinfo>
 <authorgroup>
   <author>
      <firstname>Andrew</firstname>
@@ -17,9 +17,9 @@ author:[Mitchell QC,Iain G.]
      <lineage>QC</lineage>
   </author>
 </authorgroup>
-</articleinfo>
+</chapterinfo>
 ++++
-
+/////////////////////////////////
 
 
 [[sec_introduction_uk]]

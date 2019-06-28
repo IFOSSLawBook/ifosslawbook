@@ -2,16 +2,16 @@
 == Israel ==
 author:[Greenbaum,Eli]
 
-
+//////////////////////////////
 +++++++++++++
-<articleinfo>
+<chapterinfo>
   <author>
      <firstname>Eli</firstname>
      <surname>Greenbaum</surname>
   </author>
-</articleinfo>
+</chapterinfo>
 +++++++++++++
-
+//////////////////////////////
 
 
 [[sec_introductionisrael]]

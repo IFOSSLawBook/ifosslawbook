@@ -2,16 +2,16 @@
 == Poland ==
 author:[Rychlicki,Tomasz]
 
-
+/////////////////////////////
 +++++++++++++
-<articleinfo>
+<chapterinfo>
   <author>
      <firstname>Tomasz</firstname>
      <surname>Rychlicki</surname>
   </author>
-</articleinfo>
+</chapterinfo>
 +++++++++++++
-
+/////////////////////////////
 
 
 [[sec_introductionpolish]]

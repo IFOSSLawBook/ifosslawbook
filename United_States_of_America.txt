@@ -2,16 +2,16 @@
 == United States of America ==
 author:[Webbink,Mark H.]
 
-
+////////////////////////
 +++++++
-<articleinfo>
+<chapterinfo>
   <author>
      <firstname>Mark H.</firstname>
      <surname>Webbink</surname>
   </author>
-</articleinfo>
+</chapterinfo>
 +++++++
-
+////////////////////////
 
 
 [[sec_introductionusa]]

@@ -2,16 +2,16 @@
 == A history of FOSS law and licensing ==
 author:[Engelfriet,Arnoud]
 
-
+///////////////////////
 +++++++++++++
-<articleinfo>
+<chapterinfo>
   <author>
      <firstname>Arnoud</firstname>
      <surname>Engelfriet</surname>
   </author>
-</articleinfo>
+</chapterinfo>
 +++++++++++++
-
+///////////////////////
 
 Surprisingly, programmable computers are older than copyright law: Charles Babbage's analytical engine of 1837 predates the Berne Convention for the Protection of Literary and Artistic Works (1886).  However, unlike the Convention, Babbage's mechanical contraption designed to perform mathematical calculations never became a real-world success. Several special-purpose machines, such as the Hollerith tabulating machine, did sell on the market in the late 19th and early 20th century. The first computers in the modern sense only became available in the 1950s, thanks to ground-breaking research by John von Neumann and Alan Turing in particular.
 

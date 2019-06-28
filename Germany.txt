@@ -3,9 +3,9 @@
 author:[Engelhardt,Tim]
 author:[Jaeger,Till]
 
-
+//////////////////////////////
 +++++++++++++++
-<articleinfo>
+<chapterinfo>
 <authorgroup>
   <author>
      <firstname>Tim</firstname>
@@ -16,9 +16,9 @@ author:[Jaeger,Till]
      <surname>Jaeger</surname>
   </author>
 </authorgroup>
-</articleinfo>
+</chapterinfo>
 +++++++++++++++
-
+//////////////////////////////
 
 
 [[sec_introductiongerman]]
