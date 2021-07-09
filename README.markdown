@@ -11,6 +11,10 @@ Any pull request will be authorized only by the copyright holders of the individ
 >
 > and work from there
 
+The `bugfix` branch is intended as the working and testing branch.
+
+The `master` branch is intended as the stable up-to-date branch, from which the book is being generated.
+
 
 ## Files
 
